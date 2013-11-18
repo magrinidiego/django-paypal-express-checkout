@@ -3,6 +3,12 @@ Django Paypal Express Checkout
 
 A Django application to integrate PayPal in your Django driven site.
 
+
+*This is a fork to implement the ability to pass kwargs** from the initial form to bind an action at the completion of checkout.*
+
+For the original work go to: https://github.com/bitmazk/django-paypal-express-checkout
+
+
 Features
 --------
 
